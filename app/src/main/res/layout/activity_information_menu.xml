@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_information_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#FFFFFF"
+    tools:context="com.orc.offroadcompanion.MainMenuActivity">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbarStyle="insideOverlay"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/informationMenuText"
+                android:layout_weight="0.15"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:text="@string/informationMenuText"
+                android:elevation="1dp" />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton1"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton2"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton3"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton4"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton5"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton6"
+                android:layout_weight=".15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton7"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton8"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton9"
+                android:layout_weight=".15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton10"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton11"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton12"
+                android:layout_weight=".15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton13"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton14"
+                android:layout_weight="0.15"
+
+                />
+
+            <Button
+                android:text="@string/informationMenuTopicPlaceHolder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/infoMenuButton15"
+                android:layout_weight=".15"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

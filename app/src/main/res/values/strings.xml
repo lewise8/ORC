@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Off Road Companion</string>
+
+    <string name="mainMenuText">This is the Main Menu</string>
+    <string name="mainMenuButtonNavigation">Navigation</string>
+    <string name="mainMenuButtonOrientation">Orientation</string>
+    <string name="mainMenuButtonInformation">Information</string>
+
+    <string name="navigationMenuText">This is the Navigation Menu</string>
+    <string name="navigationMenuButtonView">View</string>
+    <string name="navigationMenuButtonLoad">Load</string>
+    <string name="navigationMenuButtonSave">Save</string>
+
+    <string name="orientationActivityText">This is the Clinometer Activity</string>
+
+    <string name="informationMenuText">This is the Information Menu</string>
+    <string name="informationMenuTopicPlaceHolder">Place Holder info Topic</string>
+
+
+</resources>
