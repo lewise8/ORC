@@ -16,5 +16,6 @@
     <string name="informationMenuText">This is the Information Menu</string>
     <string name="informationMenuTopicPlaceHolder">Place Holder info Topic</string>
 
+    <string name="splashScreenText">Splash Screen Text</string>
 
 </resources>
