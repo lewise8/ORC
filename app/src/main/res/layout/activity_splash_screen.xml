@@ -15,9 +15,9 @@
     <ImageView
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:scaleX=".5"
-        android:scaleY=".5"
-        android:src="@drawable/orc_logo"
+        android:scaleX="1"
+        android:scaleY="1"
+        android:src="@drawable/orc_logo_larg"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
